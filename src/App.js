@@ -23,7 +23,7 @@ function App() {
     autoPlay: true,
     stopOnHover: true,
     emulateTouch: true,
-    transitionTime: 1000,
+    transitionTime: 500,
     showArrows: true,
     showThumbs: false,
     renderArrowPrev: (clickHandler) => (
